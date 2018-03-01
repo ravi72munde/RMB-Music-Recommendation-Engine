@@ -1,6 +1,6 @@
 # RMB-Music-Recommendation-Engine
 
-Project Notebook : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6611879872192041/1841681144160670/2686572534824923/latest.html
+Project Notebook : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6611879872192041/1841681144160670/2686572534824923/latest.html <br/>
 Project Visualization: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6611879872192041/3052791685244277/2686572534824923/latest.html
 
 Attached files:
